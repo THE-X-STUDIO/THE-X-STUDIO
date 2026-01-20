@@ -1,6 +1,6 @@
 ⚡ THE-X <br>
 
-Founder & Lead Developer at LoopX
+Founder & Lead Developer at THEXSTUDIO
 
               I'm a Professional Web Developer dedicated to engineering high-performance digital experiences.
               Currently, I am scaling LoopX, a startup agency focused on delivering next-generation
